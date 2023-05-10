@@ -10,13 +10,7 @@
 - ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS
 - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
 - ![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png) GitHub
-- ![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png) PyTorch
-- ![Keras](https://img.icons8.com/color/48/000000/keras.png) Keras
-- ![scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png) scikit-learn
-- ![D3.js](https://img.icons8.com/color/48/000000/d3-js.png) D3.js
-- ![Puppeteer](https://img.icons8.com/color/48/000000/puppeteer.png) Puppeteer
 - ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker
-- ![Weights and Biases](https://img.icons8.com/fluency/48/000000/cloud-sync.png) Weights and Biases
 
 ### - 👯 I’m looking to collaborate on ...
   HOCR ML Pipelines !
