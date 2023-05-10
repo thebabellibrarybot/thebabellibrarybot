@@ -14,7 +14,7 @@
 
 ## - 👯 I’m looking to collaborate on ...
 
-  HOCR ML Pipelines !
+  Historic HOCR ML Pipelines !
   
   Game asset generation !
   
