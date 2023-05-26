@@ -26,7 +26,7 @@
  
 ## - 📫 How to reach me: ...
 
-  jack@thebabellibrary.org
+  JTucker0110@gmail.com
   
 ## - 😄 Pronouns: ...
 
