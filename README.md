@@ -5,7 +5,7 @@
   
   Here you can find a variety of tools used to annotate data for ML, format data for ML, and running models in a UI. All projects are workspaces for [The Babel Public Library](http://thebabelpubliclibrary.org/).
   
-  You can also check out my basic project portfolio website [MumbotPorts]('https://www.mumbotport.com/').
+  You can also check out my basic project portfolio website [MumbotPorts](https://www.mumbotport.com/)
   
   Some of my favorite repos are pinned below, including a dataset I scrapped and formatted to mirror MINST but using a collection of 9 characters in latin textura from medieval text (provided by paleographers). An annotator aimed at leveraging a paleographers approach to transcribing, compiling, and carefully considering language data found in manuscripts. Exporters and API that convert the object structures I regularly use into standardized ML formats or standardized historic library formats such as PAGE XML, COCO, MARC, or Dublin Core. Last but not least API that may or may not be available to preform ML enabled alterations on datasets via lambda functions and sagemaker endpoints. (sagemakers endpoints are off more often than not cause thats a whole bill) 
 
